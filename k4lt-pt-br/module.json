@@ -1,0 +1,26 @@
+{
+  "title": "Kult - Divindade Perdida em pt-BR",
+  "description": "Tradução do sistema Kult para o Foundry em português brasileiro",
+  "version": "0.0.1",
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "pt-br.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/rabiscando/k4lt-pt-BR",
+  "manifest": "https://raw.githubusercontent.com/rabiscando/k4lt-pt-BR/main/k4lt-pt-br/module.json",
+  "download": "https://raw.githubusercontent.com/rabiscando/k4lt-pt-BR/main/k4lt-pt-br/archive/main.zip",
+  "id": "k4lt-pt-br",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.304"
+  },
+  "authors": [
+    {
+      "name": "NinjaDePantufas"
+    }
+  ]
+}
