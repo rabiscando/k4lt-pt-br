@@ -8,7 +8,7 @@ Tradução do sistema Kult para o Foundry em português brasileiro
 
 ## installation
 
-- Adição aos módulos do Foundry VTT via o arquivo de manifesto: https://raw.githubusercontent.com/rabiscando/k4lt-pt-br/main/dcc-pt-br/module.json
+- Adição aos módulos do Foundry VTT via o arquivo de manifesto: [ [https://raw.githubusercontent.com/rabiscando/k4lt-pt-br/main/dcc-pt-br/module.json](https://raw.githubusercontent.com/rabiscando/k4lt-pt-br/main/k4lt-pt-br/module.json)](https://raw.githubusercontent.com/rabiscando/k4lt-pt-br/main/k4lt-pt-br/module.json)
 - Ativar na opções do Foundry o idioma Português
 
 ## Crédits
